@@ -27,7 +27,8 @@ https://colab.research.google.com/drive/1EHzsCu0G9TZafKcUvGwRVht7whme9q2L#scroll
 
 ## References
 **Peer Reviewed and Academic Articles**
-Akhgar, B., Fortune, D., Hayes, R. E., Guerra, B., & Manso, M. (2013). Social media in crisis events: Open networks and collaboration supporting disaster response and recovery. 2013 IEEE International Conference on Technologies for Homeland Security (HST), 760–765.
+
+Akhgar, B., Fortune, D., Hayes, R. E., Guerra, B., & Manso, M. (2013). Social media in crisis events: Open networks and collaboration supporting disaster response and recovery. _2013 IEEE International Conference on Technologies for Homeland Security (HST)_, 760–765.
 
 Bird, D., Ling, M., & Haynes, K. (2012). Flooding Facebook-the use of social media during the Queensland and Victorian floods. Australian Journal of Emergency Management, The, 27(1), 27–33.
 
