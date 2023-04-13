@@ -13,8 +13,8 @@ This is a repository for [Diving into the Digital Public Space](https://courses.
 - [Academic Background](#academic-background)
 - [Data & Methodology](#data-&-methodology)
 - [Results](#results)
-- [Limitations](#limitations)
 - [Conclusion](#conclusion)
+- [Limitations](#limitations)
 - [Annex](#annex)
 - [Google Notebook](#google-notebook)
 - [References](#references)
@@ -95,10 +95,22 @@ Image 8: Nice stabbing changes in hashtags
 ![img1](Nice-stabbing-changes-in-hashtags.jpeg)
 
 
+ 
+
+## Conclusion
+
+Our study aimed to examine how online communication on Twitter changes in response to terrorist attacks in France and how messaging attributes, sentiment, and partisanship may impact our interpretation of public sentiment and behavior. Our study was structured around three main research questions, each investigating a different aspect of the online discourse around the four terrorist attacks we selected.
+Our first research question revolved around the analysis of the main sentiments associated with the attacks and whether these sentiments recorded a significant shift before and after the event. Our second research question instead revolved around the analysis of the ideology behind the selected tweets and whether significant changes were observable. Moreover, we were interested in finding out whether a change could be observed before and after the attacks and whether right-wing and Islam-revendicated attacks presented differences in online discourse. Our analysis revealed that, on the one hand, tweets from the 2022 Paris attack were more ideological and presented stronger negative sentiment than tweets related to other attacks. This finding suggests that significant events may amplify pre-existing ideological differences and lead to more negative sentiment on social media. On the other hand, for the remaining attacks we did not find conclusive changes before and after the events in terms of sentiments and partisanship. This suggests that the impact of such events on public discourse may vary depending on the nature of the event and other contextual factors.
+Our third research question set out to map hashtags’ use before and after the selected events to, once again, detect changes in the online discourse. This is, arguably, where our methodology performed at its best. Through hashtag analysis we were able to clearly observe a shift in themes and topics in all the selected attacks. The most interesting results were recorded for the Bayonne mosque shooting, where seven days before the attack the most used hashtags revolved around islamophobia, immigration, and racism while in the following seven days sentiments of community, kinship, and brotherhood with the Muslim community.
+What might also be considered an interesting finding is the sometimes challenging process of making sense of sentiment analysis results. These were not as clear as we had hoped in designing our methodology. As previously noted, the most interesting results pertain to hashtag networks and topic modeling. Methodological considerations should then be of prime importance in future research efforts.
 
 ## Limitations
 
-## Conclusion
+Our research on online communication related to attacks carried out by right-wing extremists and Islamist extremists has several potential limitations. These include the limited number of attacks investigated, personal bias in annotation, and the absence of additional document types - such as newspaper articles.
+In addition to these limitations, there are several other potential challenges to the study's design and implementation. These include language barriers, selection bias, and ethical considerations.
+Language barriers may limit the diversity of perspectives and experiences represented in the data collected, as the study is focused on social media posts in French. Similarly, selection bias may limit the generalizability of the findings to individuals who do not use social media or who do not share their thoughts on social media.
+
+To mitigate these limitations, further research will need to employ more rigorous data collection and analysis methods, including the use of multiple annotators and a systematic process for data collection. Furthermore, additional document sources - such as newspaper articles - would prove useful.
 
 ## Annex
 
