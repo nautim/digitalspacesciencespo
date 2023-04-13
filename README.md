@@ -43,6 +43,12 @@ The attacks claimed by the Islamic State that were selected for this study are t
 
 ## Academic Background
 
+The utilization of social media in the context of terrorist attacks has been explored through various themes in existing literature. Collective sense-making, as discussed in studies by Stieglitz et al. (2017), Heverin and Zach (2012), Mirbabaie and Zapatka (2017), and Fischer et al. (2016), focuses on the use of social media to make sense of events during and after a crisis, aiding individuals and communities in understanding and coping with the situation. Convergence behavior, a theme found in papers by Mirbabaie et al. (2017), Shaw et al. (2013), and Hughes et al. (2008), examines how individuals and groups come together on social media to share information, support each other, and coordinate response efforts during crisis situations.
+
+Information dissemination and gathering play a crucial role in the spread of information during a crisis, as evidenced in the works of Akhgar et al. (2013), Simon et al. (2015), and Eriksson (2016). These studies highlight the sharing of eyewitness accounts, official updates, and news articles on social media platforms. Emotional support and expressions of grief, as explored in Stieglitz et al. (2017), Heverin and Zach (2012), and Eriksson (2016), discuss how social media is used for emotional exchanges, including sharing grief, shock, and solidarity during and after a crisis event.
+
+The role of influential users in shaping the discourse and spreading information during crisis situations has been investigated by Mirbabaie et al. (2017) and Mirbabaie and Zapatka (2017). Having identified these main themes, our study seeks to build upon them by examining the dynamics of online communication surrounding terrorist attacks in France. In particular, we are interested in how discourse changes over time through the identification of patterns, themes, and sentiment in the content.
+
 ## Data & Methodology
 
 ## Results
