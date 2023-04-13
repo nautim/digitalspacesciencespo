@@ -16,7 +16,7 @@ This is a repository for the [Diving into the Digital Public Space](https://cour
 - [Conclusion](#conclusion)
 - [Limitations](#limitations)
 - [Annex](#annex)
-- [Google Colab Notebook](#google-notebook)
+- [Google Colab Notebook](#google-colab-notebook)
 - [References](#references)
 
 ## Introduction
@@ -63,8 +63,6 @@ Our study utilized a variety of analytical methods to gain insights into the onl
 
 [^3]: For more details on how the classification was carried out please refer to the Annex.
 
-Our study utilized a variety of analytical methods to gain insights into the online discourse related to the selected attacks and to address our research questions. To determine the main sentiments associated with the attacks, we employed two dictionary-based methods, VADER and TextBlob, which provided a holistic view of the sentiment of each tweet in our dataset. Furthermore, we employed TFCamembertForSequenceClassification, an embedding-based method for French sentiment analysis, to ensure accuracy and language specificity. The same methodology was applied to identify the ideology of the tweets and to trace changes before and after the attacks. We then also used word clouds to have readily understandable graphs showing for both sentiments and ideology. Furthermore, to conduct our analysis, we manually annotated a dataset of more than 1400 tweets to classify them based on their sentiment and partisanship[^3]. The tweets were categorized as either “negative”, “neutral”, or “positive” in terms of sentiment and as “left”, “neutral”, or “right” in terms of partisanship. To ensure the accuracy of the annotation process, all the members of our group were involved, and disagreements were resolved through discussion and consensus. Once the dataset was fully annotated, we created separate copies of the dataset for each sentiment and partisanship category, including only positive tweets, negative tweets, and tweets labeled as being from the left or right. These copies of the dataset allowed us to analyze and compare the sentiment and partisanship of tweets separately, providing a more nuanced understanding of how these factors impact public discourse on social media
-
 To uncover the most prevalent themes and discussions surrounding the attacks, we employed Bertopic, a topic modeling tool. Our use of these diverse analytical methods enabled us to obtain a comprehensive understanding of the online discourse surrounding the selected attacks. 
 
 Finally, to address our third research question, which examined how the use of hashtags changed before and after the events, we plotted networks of hashtags by degree. This enabled us to identify the most frequently used and influential hashtags within the online discourse. Overall, our use of these varied analytical methods allowed us to gain a nuanced and comprehensive view of the online communication related to the selected attacks.
@@ -90,7 +88,7 @@ Image 2: Ratio of positive sentiments for assaults
 
 ![img1](Ratio-of-positive-sentiments-for-assaults.jpeg)
 
-We then proceeded by investigating the words that appeared most frequently in the tweets identified as either positive or negative. As evidenced by Image 3, the most frequent words in negative tweets are _‘raciste’, ‘ennemi’, ‘extreme’, and ‘anti’_. It is also interesting to note that the word ‘droite’ is employed rather frequently in negative tweets. On the other hand, we can observe that the words most frequently appearing in positive tweets are _‘aime’, ‘paix’, ‘libre’, and ‘bonne’_. Also, in this case it was quite interesting to note that the word _‘prophete’_ appears among the most frequent.
+We then proceeded by investigating the words that appeared most frequently in the tweets identified as either positive or negative. As evidenced by Image 3, the most frequent words in negative tweets are "raciste", "ennemi", "extreme", and "anti". It is also interesting to note that the word ‘droite’ is employed rather frequently in negative tweets. On the other hand, we can observe that the words most frequently appearing in positive tweets are "aime" "paix", "libre", and "bonne". Also, in this case it was quite interesting to note that the word "prophete" appears among the most frequent.
 
 Image 3: Differences in word frequency in positive and negative tweets
 
