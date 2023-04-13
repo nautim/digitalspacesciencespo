@@ -132,8 +132,31 @@ To mitigate these limitations, further research will need to employ more rigorou
 
 ## Annex
 
+To understand the ideology behind the tweets and their evolution over time, we manually annotated a sample of 1400 tweets to train our dataset attributing each tweet as being either “right”, “left”, or “neutral” and attributing to each tweet its sentiment “positive”, “negative”, or “neutral”. 
 
+What follows are examples of how we categorized the tweets. For instance, neutral tweets, both in ideology and sentiment, were mainly tweets by media outlets which are strictly factual tweets, providing information without having or suggesting a specific ideology or sentiment, as evidenced below in Image 9.
 
+Image 9: Neutral tweet
+
+![img1](Neutral-tweet.png)
+
+On the other hand, tweets we identified as “right” and “negative” tended to look like the one below. It is clearly understandable that the tweet is first of all right-wing and second of all it is readily obvious the negative sentiment towards Islam and muslims.
+
+Image 10: Right and negative tweet
+
+![img1](Right-and-negative-tweet.png)
+
+Tweets that we identified as “left” and “positive” were those tweets who shared positive ideas and presented constructive, forward-looking, and progressive ideas.
+
+Image 11: Left and positive tweet
+
+![img1](Left-and-positive-tweet.png)
+
+Tweets that we identified as “left” and “negative” tended to present leftist ideas while at the same time writing about terrorism, war, deaths.
+
+Image 12: Left and negative tweet
+
+![img1](Left-and-negative-tweet.png)
 
 ## Google Colab Notebook
 https://colab.research.google.com/drive/1EHzsCu0G9TZafKcUvGwRVht7whme9q2L#scrollTo=u4p2A8O87xpN
