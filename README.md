@@ -2,7 +2,7 @@ This is a repository for [Diving into the Digital Public Space](https://courses.
 
 ----
 
-#</b>Online Communication Surrounding Terrorist Attacks in France: A Comparative Analysis.</b>
+# Online Communication Surrounding Terrorist Attacks in France: A Comparative Analysis
 
 *By Juan Arias Arango, Giacomo Da Ros, Timur Naushirvanov & Ludovica Pavoni*
 
