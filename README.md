@@ -73,8 +73,9 @@ Finally, to address our third research question, which examined how the use of h
 
 #### Tweets' Sentiments
 
-To understand which are the sentiments associated with attacks, we carried out sentiment analysis with three different methods in order to categorize the emotions related to the tweets. For instance, we identified tweets as positive or negative when two out of the three employed methods classified the tweet as positive or negative. Let us then take a look at our main findings, starting with Figure 1. 
+To understand which are the sentiments associated with attacks, we carried out sentiment analysis with three different methods in order to categorize the emotions related to the tweets. For instance, we identified tweets as positive or negative when two out of the three employed methods classified the tweet as positive or negative[^4]. Let us then take a look at our main findings, starting with Figure 1. 
 
+[^4]: So, when two out of the three methods (VADER, TextBlob, and TFCamembertForSequenceClassification) reported a tweet as positive or negative the tweet was classed as either positive or negative.
 
 Image 1: Ratio of negative sentiments for assaults
 
