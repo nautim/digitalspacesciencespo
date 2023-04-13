@@ -78,7 +78,23 @@ Image 5: Differences in word frequency in ideological and non-ideological tweets
 
 ### Bert Topic Modeling
 
+Image 6: Heatmap of BERT topics over time
+
+![img1](Heatmap-of-BERT-topics-over-time.png)
+
+
+
 ### Hashtags networks
+
+Image 7: Bayonne mosque shooting hashtags' network effect
+
+![img1](Bayonne-mosque-shooting-hashtags-network-effect.png)
+
+Image 8: Nice stabbing changes in hashtags
+
+![img1](Nice-stabbing-changes-in-hashtags.jpeg)
+
+
 
 ## Limitations
 
