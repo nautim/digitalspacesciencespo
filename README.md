@@ -71,6 +71,9 @@ Image 4: Word Clouds
 
 ![img1](Word-Clouds.png)
 
+Image 5: Differences in word frequency in ideological and non-ideological tweets
+
+![img1](Differences-in-word-frequency-in-ideological-and-non-ideological-tweets .jpeg)
 
 
 ### Bert Topic Modeling
