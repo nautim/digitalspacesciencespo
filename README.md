@@ -65,7 +65,7 @@ Image 2: Ratio of positive sentiments for assaults
 
 Image 3: Differences in word frequency in positive and negative tweets
 
-![img1](Differences-in-word-frequency-in-positive-and-negative-tweets.png)
+![img1](Differences-in-word-frequency-in-positive-and-negative-tweets .jpeg)
 
 Image 4: Word Clouds
 
