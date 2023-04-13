@@ -73,13 +73,22 @@ Finally, to address our third research question, which examined how the use of h
 
 ### Sentiment Analysis
 
+To understand which are the sentiments associated with attacks, we carried out sentiment analysis with three different methods in order to categorize the emotions related to the tweets. For instance, we identified tweets as positive or negative when two out of the three employed methods classified the tweet as positive or negative. Let us then take a look at our main findings, starting with Figure 1. 
+
+
 Image 1: Ratio of negative sentiments for assaults
 
 ![img1](Ratio-of-negative-sentiments-for-assaults.jpeg)
 
+We observed that the ratio of negative sentiments for assaults experienced a slight rise after the attacks. This increase was particularly noticeable on the day following the attacks, with the exception of the event from 2020. However, there does not appear to be a clear trend in the days that followed. The data also seems to indicate that the proportion of positive sentiments declined in the aftermath of the attacks. As depicted in the graph below, within 2 to 6 days, the ratio of positive tweets dropped from an average of 0.38 to 0.34.
+
+The case of the 2022 attack seems to present the clearest picture, depicting an increase in the proportion of positive tweets following the incident. We attribute this to the significant expression of support from the Kurdish community towards the victims of the attack. Additionally, the French authorities did not immediately classify the attack as "terrorist", which led to a surge in tweets supporting the Kurdish community.
+
 Image 2: Ratio of positive sentiments for assaults
 
 ![img1](Ratio-of-positive-sentiments-for-assaults.jpeg)
+
+We then proceeded by investigating the words that appeared most frequently in the tweets identified as either positive or negative. As evidenced by Image 3, the most frequent words in negative tweets are _‘raciste’, ‘ennemi’, ‘extreme’, and ‘anti’_. It is also interesting to note that the word ‘droite’ is employed rather frequently in negative tweets. On the other hand, we can observe that the words most frequently appearing in positive tweets are _‘aime’, ‘paix’, ‘libre’, and ‘bonne’_. Also, in this case it was quite interesting to note that the word _‘prophete’_appears among the most frequent.
 
 Image 3: Differences in word frequency in positive and negative tweets
 
