@@ -1,4 +1,4 @@
-This is a repository for [Diving into the Digital Public Space](https://courses.ceu.edu/courses/2022-2023/diving-digital-public-space-individual-behavioral-digital-traces-collective-social) course (SciencesPo - CEU 2022/23). 
+This is a repository for the [Diving into the Digital Public Space](https://courses.ceu.edu/courses/2022-2023/diving-digital-public-space-individual-behavioral-digital-traces-collective-social) course (SciencesPo - CEU 2022/23). 
 
 ----
 
@@ -16,7 +16,7 @@ This is a repository for [Diving into the Digital Public Space](https://courses.
 - [Conclusion](#conclusion)
 - [Limitations](#limitations)
 - [Annex](#annex)
-- [Google Notebook](#google-notebook)
+- [Google Colab Notebook](#google-notebook)
 - [References](#references)
 
 ## Introduction
@@ -135,7 +135,7 @@ To mitigate these limitations, further research will need to employ more rigorou
 
 
 
-## Google notebook
+## Google Colab Notebook
 https://colab.research.google.com/drive/1EHzsCu0G9TZafKcUvGwRVht7whme9q2L#scrollTo=u4p2A8O87xpN
 
 ## References
