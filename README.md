@@ -55,6 +55,10 @@ The role of influential users in shaping the discourse and spreading information
 
 ### Sentiment Analysis
 
+### Bert Topic Modeling
+
+### Hashtags networks
+
 ## Limitations
 
 ## Conclusion
