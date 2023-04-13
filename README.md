@@ -73,6 +73,8 @@ Finally, to address our third research question, which examined how the use of h
 
 ### Sentiment Analysis
 
+#### Tweets' Sentiments
+
 To understand which are the sentiments associated with attacks, we carried out sentiment analysis with three different methods in order to categorize the emotions related to the tweets. For instance, we identified tweets as positive or negative when two out of the three employed methods classified the tweet as positive or negative. Let us then take a look at our main findings, starting with Figure 1. 
 
 
@@ -88,41 +90,49 @@ Image 2: Ratio of positive sentiments for assaults
 
 ![img1](Ratio-of-positive-sentiments-for-assaults.jpeg)
 
-We then proceeded by investigating the words that appeared most frequently in the tweets identified as either positive or negative. As evidenced by Image 3, the most frequent words in negative tweets are _‘raciste’, ‘ennemi’, ‘extreme’, and ‘anti’_. It is also interesting to note that the word ‘droite’ is employed rather frequently in negative tweets. On the other hand, we can observe that the words most frequently appearing in positive tweets are _‘aime’, ‘paix’, ‘libre’, and ‘bonne’_. Also, in this case it was quite interesting to note that the word _‘prophete’_appears among the most frequent.
+We then proceeded by investigating the words that appeared most frequently in the tweets identified as either positive or negative. As evidenced by Image 3, the most frequent words in negative tweets are _‘raciste’, ‘ennemi’, ‘extreme’, and ‘anti’_. It is also interesting to note that the word ‘droite’ is employed rather frequently in negative tweets. On the other hand, we can observe that the words most frequently appearing in positive tweets are _‘aime’, ‘paix’, ‘libre’, and ‘bonne’_. Also, in this case it was quite interesting to note that the word _‘prophete’_ appears among the most frequent.
 
 Image 3: Differences in word frequency in positive and negative tweets
 
 ![img1](Differences-in-word-frequency-in-positive-and-negative-tweets.jpeg)
 
+#### Tweets' Ideology/Politicization
+
+To analyze the impact of terrorist attacks on tweets labeled as "ideological” or “politicized” (tweets annotated either as "left" or "right"), we followed the same methodology presented above. As the term “ideology” was employed in the labeling of the two sets, we will henceforth adhere to this denomination. We then generated word clouds for both ideological and non-ideological tweets to identify the main topics that characterized them. The results, presented below, clearly show that ideological tweets make significantly more references to topics related to religion, migration, and politics ("islamiste", "chretien", "raciste", "accueil", "etranger").
+
+For non-ideological tweets, we observed that the main topics were related to the event itself and not religious topics. Here, we noticed that the tweets were mentioning the victims, the atrocity of the event, and how the government managed the crisis. For instance, as shown in the word cloud, the main topics identified in the dataset of non-ideological tweets were: "politique", "president", "etat", "attaque", "mort", "victime", etc. This can intuitively be associated with the information-sharing practices mentioned in the literature.
+
 Image 4: Word Clouds
 
 ![img1](Word-Clouds.png)
+
+As done for the sentiment of the tweets we also investigated the most frequently used, thus the most frequently recurring, words in ideological and non-ideological tweets. As evidenced by Figure 5, notable differences exist between the two types of tweets. The graph clearly demonstrates this imbalance in word distribution. Non-ideological tweets do not seem to present words around which discourse is organized. On the other hand, ideological ones are strikingly polarized in this sense. The words appearing most frequently in ideological tweets are _‘probleme’, ‘faut’, ‘liberte’, ‘raciste’, ‘chretien’, ‘droit’_. This corroborates the findings obtained through the word clouds: ideological tweets are more related to religion, migration, and politics.
 
 Image 5: Differences in word frequency in ideological and non-ideological tweets
 
 ![img1](Differences-in-word-frequency-in-ideological-and-non-ideological-tweets.jpeg)
 
-
 ### Bert Topic Modeling
+
+On pre-processed text data, we additionally applied the BERT algorithm to identify the main topics that were discussed before and after the attacks. As the heatmap on Image 6 shows, the algorithm identified around 500 topics, with the majority of them being related to the 2020 Nice attack. A closer look at the first 100 topics reveals that some of the identified topics span across all attacks, while others are specific to certain events.
 
 Image 6: Heatmap of BERT topics over time
 
 ![img1](Heatmap-of-BERT-topics-over-time.png)
 
-
-
 ### Hashtags networks
+
+To then answer our third research question we focused on hashtag network in order to gain a deeper understanding of the relationship between hashtags, based on their co-occurrence in social media posts; indeed, by analyzing the frequency and patterns of hashtag co-occurrence, we were able to identify clusters of related hashtags, as well as the central or most influential hashtags within those clusters. Image 7 reports our most interesting finding, related to the Bayonne mosque shooting. In the seven days leading up to the attack, the most used hashtags are #france, #islam, #islamophobia, #immigration, #racism, #terrorism, and #macron and they all are equidistant, or, better, they follow a rather normal pattern. Not surprisingly, the day of the attack new hashtags emerge and the overall shape of the network reports numerous changes: new nodes emerge. Different strands emerge: one reports an increase in the use of anti-Muslim hashtags (see #trump, #zemmour) and another that links back to similar events that took place in Germany. What is most interesting, however, is the evolution of the hashtag networks in the seven days following the attack: there appears to be a new re-centralization of the hashtags and an intensification of connections between hashtags that express support for Muslim victims (#freresmusulmans). 
 
 Image 7: Bayonne mosque shooting hashtags' network effect
 
 ![img1](Bayonne-mosque-shooting-hashtags-network-effect.png)
 
+To further analyze hashtags’ use and its importance in relation to terrorist attacks we have also taken into account the Nice stabbing by reporting the changes in hashtags before and after the event in terms of their different centralities. With regards to degree centrality we can observe that the most central tweets, both before and after the attack, remain the same, with the most prominent being #france, #islam, #macron, #terrorism, #islamophobie. Only in this event we observe #darmanin which is in line with France’s political discourse around the time of the attack. The tweets that rose in the following days are unsurprisingly #nice, #attentat and also #immigration, #terrorismeislamiste, thus confirming the idea that folllowing an Islam-revendicated attack online discourse intensifies around the hot topics of immigration and terrorism.
+
 Image 8: Nice stabbing changes in hashtags
 
 ![img1](Nice-stabbing-changes-in-hashtags.jpeg)
-
-
- 
 
 ## Conclusion
 
