@@ -19,6 +19,22 @@ Project name: <b>Online Communication Surrounding Terrorist Attacks in France: A
 
 ## Introduction
 
+## Research topic
+
+## Context
+
+## Academic Background
+
+## Data & Methodology
+
+## Results
+
+## Limitations
+
+## Conclusion
+
+## Annex
+
 
 
 
