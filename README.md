@@ -55,6 +55,8 @@ The role of influential users in shaping the discourse and spreading information
 
 ### Sentiment Analysis
 
+Image 1: Ratio of negative sentiments for assaults
+
 ![img1](Ratio-of-negative-sentiments-for-assaults.jpeg)
 
 ### Bert Topic Modeling
