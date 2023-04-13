@@ -59,6 +59,10 @@ Image 1: Ratio of negative sentiments for assaults
 
 ![img1](Ratio-of-negative-sentiments-for-assaults.jpeg)
 
+Image 2: Ratio of positive sentiments for assaults
+
+![img1](Ratio-of-positive-sentiments-for-assaults.jpeg)
+
 ### Bert Topic Modeling
 
 ### Hashtags networks
