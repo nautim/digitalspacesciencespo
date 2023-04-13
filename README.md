@@ -53,6 +53,8 @@ The role of influential users in shaping the discourse and spreading information
 
 ## Results
 
+### Sentiment Analysis
+
 ## Limitations
 
 ## Conclusion
