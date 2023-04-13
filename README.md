@@ -63,6 +63,16 @@ Image 2: Ratio of positive sentiments for assaults
 
 ![img1](Ratio-of-positive-sentiments-for-assaults.jpeg)
 
+Image 3: Differences in word frequency in positive and negative tweets
+
+![img1](Differences-in-word-frequency-in-positive-and-negative-tweets.jpeg)
+
+Image 4: Word Clouds
+
+![img1](Word-Clouds.jpeg)
+
+
+
 ### Bert Topic Modeling
 
 ### Hashtags networks
