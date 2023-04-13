@@ -69,7 +69,7 @@ Image 3: Differences in word frequency in positive and negative tweets
 
 Image 4: Word Clouds
 
-![img1](Word-Clouds.jpeg)
+![img1](Word-Clouds.png)
 
 
 
